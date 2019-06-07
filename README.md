@@ -6,8 +6,8 @@
   </head>
   
   <body>
-  <svg width="50" height="50">
-    <rect x="12" y="14" width="10" height="15" stroke="green" fill="blue" stroke-width="5"/>
+  <svg width="200" height="200">
+    <rect x="25" y="20" width="20" height="35" stroke="green" fill="blue" stroke-width="5"/>
   </body>
   
   </html>
